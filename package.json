@@ -1,0 +1,25 @@
+{
+  "name": "concatpix",
+  "version": "1.0.0",
+  "description": "isn't the name obvious enough?",
+  "main": "index.js",
+  "dependencies": {
+    "concat-image": "0.0.0",
+    "winston": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oss92/ConcatPix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oss92/ConcatPix/issues"
+  },
+  "homepage": "https://github.com/oss92/ConcatPix#readme"
+}
